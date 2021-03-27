@@ -1,0 +1,13 @@
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.csprojAssemblyReference.cache
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.AssemblyInfoInputs.cache
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.AssemblyInfo.cs
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.csproj.CoreCompileInputs.cache
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.exe
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.deps.json
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.runtimeconfig.json
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.runtimeconfig.dev.json
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.dll
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\bin\Debug\netcoreapp3.1\MinhaCorretora.pdb
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.dll
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.pdb
+C:\Users\heyme\source\repos\MinhaCorretora\MinhaCorretora\obj\Debug\netcoreapp3.1\MinhaCorretora.genruntimeconfig.cache
